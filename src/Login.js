@@ -151,7 +151,7 @@ class Login extends Component {
         <h3>
           This form consists of many different tools such as Submit/Reset
           buttons, and used StrongRegex for password. Using "Promise" callBack
-          and "Props children for having cleaner components"
+          and "Props children for having cleaner components"!
         </h3>
         <form onSubmit={this.handleSubmit}>
           <lable style={{ fontSize: "35px" }}>Username : </lable>
